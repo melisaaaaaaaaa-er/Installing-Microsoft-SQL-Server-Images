@@ -1,1 +1,1 @@
-# nstalling-Microsoft-SQL-Server-Images
+# Installing-Microsoft-SQL-Server-Images
